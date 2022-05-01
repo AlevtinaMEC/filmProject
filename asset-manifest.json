@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/filmProject/static/css/main.7d7300b8.css",
+    "main.js": "/filmProject/static/js/main.5c962ebe.js",
+    "static/media/logo.png": "/filmProject/static/media/logo.55ee9aa7a6254efa6aca.png",
+    "index.html": "/filmProject/index.html",
+    "main.7d7300b8.css.map": "/filmProject/static/css/main.7d7300b8.css.map",
+    "main.5c962ebe.js.map": "/filmProject/static/js/main.5c962ebe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d7300b8.css",
+    "static/js/main.5c962ebe.js"
+  ]
+}
